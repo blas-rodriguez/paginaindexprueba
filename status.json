@@ -1,5 +1,5 @@
 {
-  "enabled": false,
-  "message": "Sistema deshabilitado",
+  "enabled": true,
+  "message": "Sistema habilitado",
   "updated_at": "2026-05-27"
 }
